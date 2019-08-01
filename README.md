@@ -13,10 +13,10 @@ Prerequisite: Export photos from Lightroom.
 Then: Organise the flat photo folder into albums.
 
 ```sh
-organise.py <folder>
+into_folders.py <path>
 ```
 
-You will be asked which folder / album you exported.
+where `<path>` is where you exported your photos to. You will be asked to select which folder / album you exported.
 
 Now your photos are nicely organised into folders that follow the structure of your photo library in Lightroom.
 
